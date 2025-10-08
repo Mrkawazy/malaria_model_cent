@@ -1,0 +1,781 @@
+Health Facility,Station,Year,Week,Pred_Deaths
+ALWAYS FTC,ALWAYS FTC,2025,1,0
+ALWAYS FTC,ALWAYS FTC,2025,2,1
+ALWAYS FTC,ALWAYS FTC,2025,3,0
+ALWAYS FTC,ALWAYS FTC,2025,4,1
+ALWAYS FTC,ALWAYS FTC,2025,5,1
+ALWAYS FTC,ALWAYS FTC,2025,6,0
+ALWAYS FTC,ALWAYS FTC,2025,7,0
+ALWAYS FTC,ALWAYS FTC,2025,8,0
+ALWAYS FTC,ALWAYS FTC,2025,9,0
+ALWAYS FTC,ALWAYS FTC,2025,10,0
+ALWAYS FTC,ALWAYS FTC,2025,11,0
+ALWAYS FTC,ALWAYS FTC,2025,12,0
+ALWAYS FTC,ALWAYS FTC,2025,13,0
+ALWAYS FTC,ALWAYS FTC,2025,14,0
+ALWAYS FTC,ALWAYS FTC,2025,15,0
+ALWAYS FTC,ALWAYS FTC,2025,16,0
+ALWAYS FTC,ALWAYS FTC,2025,17,0
+ALWAYS FTC,ALWAYS FTC,2025,18,0
+ALWAYS FTC,ALWAYS FTC,2025,19,0
+ALWAYS FTC,ALWAYS FTC,2025,20,0
+ALWAYS FTC,ALWAYS FTC,2025,21,0
+ALWAYS FTC,ALWAYS FTC,2025,22,0
+ALWAYS FTC,ALWAYS FTC,2025,23,0
+ALWAYS FTC,ALWAYS FTC,2025,24,0
+ALWAYS FTC,ALWAYS FTC,2025,25,0
+ALWAYS FTC,ALWAYS FTC,2025,26,0
+ALWAYS FTC,ALWAYS FTC,2025,27,0
+ALWAYS FTC,ALWAYS FTC,2025,28,0
+ALWAYS FTC,ALWAYS FTC,2025,29,0
+ALWAYS FTC,ALWAYS FTC,2025,30,0
+ALWAYS FTC,ALWAYS FTC,2025,31,0
+ALWAYS FTC,ALWAYS FTC,2025,32,0
+ALWAYS FTC,ALWAYS FTC,2025,33,0
+ALWAYS FTC,ALWAYS FTC,2025,34,0
+ALWAYS FTC,ALWAYS FTC,2025,35,0
+ALWAYS FTC,ALWAYS FTC,2025,36,0
+ALWAYS FTC,ALWAYS FTC,2025,37,0
+ALWAYS FTC,ALWAYS FTC,2025,38,0
+ALWAYS FTC,ALWAYS FTC,2025,39,0
+ALWAYS FTC,ALWAYS FTC,2025,40,0
+ALWAYS FTC,ALWAYS FTC,2025,41,0
+ALWAYS FTC,ALWAYS FTC,2025,42,0
+ALWAYS FTC,ALWAYS FTC,2025,43,0
+ALWAYS FTC,ALWAYS FTC,2025,44,0
+ALWAYS FTC,ALWAYS FTC,2025,45,0
+ALWAYS FTC,ALWAYS FTC,2025,46,0
+ALWAYS FTC,ALWAYS FTC,2025,47,0
+ALWAYS FTC,ALWAYS FTC,2025,48,0
+ALWAYS FTC,ALWAYS FTC,2025,49,0
+ALWAYS FTC,ALWAYS FTC,2025,50,0
+ALWAYS FTC,ALWAYS FTC,2025,51,0
+ALWAYS FTC,ALWAYS FTC,2025,52,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,1,1
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,2,1
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,3,1
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,4,1
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,5,1
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,6,1
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,7,1
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,8,1
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,9,1
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,10,1
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,11,1
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,12,1
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,13,1
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,14,1
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,15,1
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,16,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,17,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,18,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,19,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,20,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,21,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,22,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,23,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,24,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,25,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,26,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,27,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,28,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,29,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,30,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,31,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,32,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,33,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,34,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,35,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,36,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,37,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,38,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,39,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,40,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,41,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,42,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,43,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,44,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,45,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,46,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,47,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,48,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,49,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,50,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,51,0
+CHIDIKAMWEDZI FTC,CHIDIKAMWEDZI FTC,2025,52,0
+CHINYANI FTC,CHINYANI FTC,2025,1,1
+CHINYANI FTC,CHINYANI FTC,2025,2,1
+CHINYANI FTC,CHINYANI FTC,2025,3,1
+CHINYANI FTC,CHINYANI FTC,2025,4,1
+CHINYANI FTC,CHINYANI FTC,2025,5,1
+CHINYANI FTC,CHINYANI FTC,2025,6,1
+CHINYANI FTC,CHINYANI FTC,2025,7,1
+CHINYANI FTC,CHINYANI FTC,2025,8,1
+CHINYANI FTC,CHINYANI FTC,2025,9,1
+CHINYANI FTC,CHINYANI FTC,2025,10,1
+CHINYANI FTC,CHINYANI FTC,2025,11,1
+CHINYANI FTC,CHINYANI FTC,2025,12,1
+CHINYANI FTC,CHINYANI FTC,2025,13,1
+CHINYANI FTC,CHINYANI FTC,2025,14,1
+CHINYANI FTC,CHINYANI FTC,2025,15,1
+CHINYANI FTC,CHINYANI FTC,2025,16,1
+CHINYANI FTC,CHINYANI FTC,2025,17,1
+CHINYANI FTC,CHINYANI FTC,2025,18,1
+CHINYANI FTC,CHINYANI FTC,2025,19,1
+CHINYANI FTC,CHINYANI FTC,2025,20,1
+CHINYANI FTC,CHINYANI FTC,2025,21,0
+CHINYANI FTC,CHINYANI FTC,2025,22,0
+CHINYANI FTC,CHINYANI FTC,2025,23,0
+CHINYANI FTC,CHINYANI FTC,2025,24,0
+CHINYANI FTC,CHINYANI FTC,2025,25,0
+CHINYANI FTC,CHINYANI FTC,2025,26,0
+CHINYANI FTC,CHINYANI FTC,2025,27,0
+CHINYANI FTC,CHINYANI FTC,2025,28,0
+CHINYANI FTC,CHINYANI FTC,2025,29,0
+CHINYANI FTC,CHINYANI FTC,2025,30,0
+CHINYANI FTC,CHINYANI FTC,2025,31,0
+CHINYANI FTC,CHINYANI FTC,2025,32,0
+CHINYANI FTC,CHINYANI FTC,2025,33,0
+CHINYANI FTC,CHINYANI FTC,2025,34,0
+CHINYANI FTC,CHINYANI FTC,2025,35,0
+CHINYANI FTC,CHINYANI FTC,2025,36,0
+CHINYANI FTC,CHINYANI FTC,2025,37,0
+CHINYANI FTC,CHINYANI FTC,2025,38,0
+CHINYANI FTC,CHINYANI FTC,2025,39,0
+CHINYANI FTC,CHINYANI FTC,2025,40,0
+CHINYANI FTC,CHINYANI FTC,2025,41,0
+CHINYANI FTC,CHINYANI FTC,2025,42,0
+CHINYANI FTC,CHINYANI FTC,2025,43,0
+CHINYANI FTC,CHINYANI FTC,2025,44,0
+CHINYANI FTC,CHINYANI FTC,2025,45,0
+CHINYANI FTC,CHINYANI FTC,2025,46,0
+CHINYANI FTC,CHINYANI FTC,2025,47,0
+CHINYANI FTC,CHINYANI FTC,2025,48,0
+CHINYANI FTC,CHINYANI FTC,2025,49,0
+CHINYANI FTC,CHINYANI FTC,2025,50,0
+CHINYANI FTC,CHINYANI FTC,2025,51,0
+CHINYANI FTC,CHINYANI FTC,2025,52,0
+Chadereka RHC,Chadereka RHC,2025,1,7
+Chadereka RHC,Chadereka RHC,2025,2,7
+Chadereka RHC,Chadereka RHC,2025,3,7
+Chadereka RHC,Chadereka RHC,2025,4,7
+Chadereka RHC,Chadereka RHC,2025,5,6
+Chadereka RHC,Chadereka RHC,2025,6,6
+Chadereka RHC,Chadereka RHC,2025,7,6
+Chadereka RHC,Chadereka RHC,2025,8,6
+Chadereka RHC,Chadereka RHC,2025,9,6
+Chadereka RHC,Chadereka RHC,2025,10,6
+Chadereka RHC,Chadereka RHC,2025,11,6
+Chadereka RHC,Chadereka RHC,2025,12,5
+Chadereka RHC,Chadereka RHC,2025,13,5
+Chadereka RHC,Chadereka RHC,2025,14,5
+Chadereka RHC,Chadereka RHC,2025,15,5
+Chadereka RHC,Chadereka RHC,2025,16,5
+Chadereka RHC,Chadereka RHC,2025,17,5
+Chadereka RHC,Chadereka RHC,2025,18,5
+Chadereka RHC,Chadereka RHC,2025,19,5
+Chadereka RHC,Chadereka RHC,2025,20,5
+Chadereka RHC,Chadereka RHC,2025,21,5
+Chadereka RHC,Chadereka RHC,2025,22,4
+Chadereka RHC,Chadereka RHC,2025,23,4
+Chadereka RHC,Chadereka RHC,2025,24,4
+Chadereka RHC,Chadereka RHC,2025,25,4
+Chadereka RHC,Chadereka RHC,2025,26,4
+Chadereka RHC,Chadereka RHC,2025,27,4
+Chadereka RHC,Chadereka RHC,2025,28,4
+Chadereka RHC,Chadereka RHC,2025,29,4
+Chadereka RHC,Chadereka RHC,2025,30,4
+Chadereka RHC,Chadereka RHC,2025,31,4
+Chadereka RHC,Chadereka RHC,2025,32,4
+Chadereka RHC,Chadereka RHC,2025,33,4
+Chadereka RHC,Chadereka RHC,2025,34,4
+Chadereka RHC,Chadereka RHC,2025,35,4
+Chadereka RHC,Chadereka RHC,2025,36,4
+Chadereka RHC,Chadereka RHC,2025,37,4
+Chadereka RHC,Chadereka RHC,2025,38,3
+Chadereka RHC,Chadereka RHC,2025,39,4
+Chadereka RHC,Chadereka RHC,2025,40,3
+Chadereka RHC,Chadereka RHC,2025,41,3
+Chadereka RHC,Chadereka RHC,2025,42,3
+Chadereka RHC,Chadereka RHC,2025,43,3
+Chadereka RHC,Chadereka RHC,2025,44,3
+Chadereka RHC,Chadereka RHC,2025,45,3
+Chadereka RHC,Chadereka RHC,2025,46,3
+Chadereka RHC,Chadereka RHC,2025,47,3
+Chadereka RHC,Chadereka RHC,2025,48,3
+Chadereka RHC,Chadereka RHC,2025,49,3
+Chadereka RHC,Chadereka RHC,2025,50,3
+Chadereka RHC,Chadereka RHC,2025,51,2
+Chadereka RHC,Chadereka RHC,2025,52,2
+Chawarura RHC,Chawarura RHC,2025,1,0
+Chawarura RHC,Chawarura RHC,2025,2,0
+Chawarura RHC,Chawarura RHC,2025,3,0
+Chawarura RHC,Chawarura RHC,2025,4,0
+Chawarura RHC,Chawarura RHC,2025,5,0
+Chawarura RHC,Chawarura RHC,2025,6,0
+Chawarura RHC,Chawarura RHC,2025,7,0
+Chawarura RHC,Chawarura RHC,2025,8,0
+Chawarura RHC,Chawarura RHC,2025,9,0
+Chawarura RHC,Chawarura RHC,2025,10,0
+Chawarura RHC,Chawarura RHC,2025,11,0
+Chawarura RHC,Chawarura RHC,2025,12,0
+Chawarura RHC,Chawarura RHC,2025,13,0
+Chawarura RHC,Chawarura RHC,2025,14,0
+Chawarura RHC,Chawarura RHC,2025,15,0
+Chawarura RHC,Chawarura RHC,2025,16,0
+Chawarura RHC,Chawarura RHC,2025,17,0
+Chawarura RHC,Chawarura RHC,2025,18,0
+Chawarura RHC,Chawarura RHC,2025,19,0
+Chawarura RHC,Chawarura RHC,2025,20,0
+Chawarura RHC,Chawarura RHC,2025,21,0
+Chawarura RHC,Chawarura RHC,2025,22,0
+Chawarura RHC,Chawarura RHC,2025,23,0
+Chawarura RHC,Chawarura RHC,2025,24,0
+Chawarura RHC,Chawarura RHC,2025,25,0
+Chawarura RHC,Chawarura RHC,2025,26,0
+Chawarura RHC,Chawarura RHC,2025,27,0
+Chawarura RHC,Chawarura RHC,2025,28,0
+Chawarura RHC,Chawarura RHC,2025,29,0
+Chawarura RHC,Chawarura RHC,2025,30,0
+Chawarura RHC,Chawarura RHC,2025,31,0
+Chawarura RHC,Chawarura RHC,2025,32,0
+Chawarura RHC,Chawarura RHC,2025,33,0
+Chawarura RHC,Chawarura RHC,2025,34,0
+Chawarura RHC,Chawarura RHC,2025,35,0
+Chawarura RHC,Chawarura RHC,2025,36,0
+Chawarura RHC,Chawarura RHC,2025,37,0
+Chawarura RHC,Chawarura RHC,2025,38,0
+Chawarura RHC,Chawarura RHC,2025,39,0
+Chawarura RHC,Chawarura RHC,2025,40,0
+Chawarura RHC,Chawarura RHC,2025,41,0
+Chawarura RHC,Chawarura RHC,2025,42,0
+Chawarura RHC,Chawarura RHC,2025,43,0
+Chawarura RHC,Chawarura RHC,2025,44,0
+Chawarura RHC,Chawarura RHC,2025,45,0
+Chawarura RHC,Chawarura RHC,2025,46,0
+Chawarura RHC,Chawarura RHC,2025,47,0
+Chawarura RHC,Chawarura RHC,2025,48,0
+Chawarura RHC,Chawarura RHC,2025,49,0
+Chawarura RHC,Chawarura RHC,2025,50,0
+Chawarura RHC,Chawarura RHC,2025,51,0
+Chawarura RHC,Chawarura RHC,2025,52,0
+Chiwenga RHC,Chiwenga RHC,2025,1,3
+Chiwenga RHC,Chiwenga RHC,2025,2,4
+Chiwenga RHC,Chiwenga RHC,2025,3,3
+Chiwenga RHC,Chiwenga RHC,2025,4,4
+Chiwenga RHC,Chiwenga RHC,2025,5,3
+Chiwenga RHC,Chiwenga RHC,2025,6,3
+Chiwenga RHC,Chiwenga RHC,2025,7,3
+Chiwenga RHC,Chiwenga RHC,2025,8,3
+Chiwenga RHC,Chiwenga RHC,2025,9,3
+Chiwenga RHC,Chiwenga RHC,2025,10,3
+Chiwenga RHC,Chiwenga RHC,2025,11,3
+Chiwenga RHC,Chiwenga RHC,2025,12,3
+Chiwenga RHC,Chiwenga RHC,2025,13,2
+Chiwenga RHC,Chiwenga RHC,2025,14,2
+Chiwenga RHC,Chiwenga RHC,2025,15,2
+Chiwenga RHC,Chiwenga RHC,2025,16,2
+Chiwenga RHC,Chiwenga RHC,2025,17,2
+Chiwenga RHC,Chiwenga RHC,2025,18,2
+Chiwenga RHC,Chiwenga RHC,2025,19,2
+Chiwenga RHC,Chiwenga RHC,2025,20,2
+Chiwenga RHC,Chiwenga RHC,2025,21,2
+Chiwenga RHC,Chiwenga RHC,2025,22,2
+Chiwenga RHC,Chiwenga RHC,2025,23,2
+Chiwenga RHC,Chiwenga RHC,2025,24,2
+Chiwenga RHC,Chiwenga RHC,2025,25,2
+Chiwenga RHC,Chiwenga RHC,2025,26,2
+Chiwenga RHC,Chiwenga RHC,2025,27,2
+Chiwenga RHC,Chiwenga RHC,2025,28,2
+Chiwenga RHC,Chiwenga RHC,2025,29,1
+Chiwenga RHC,Chiwenga RHC,2025,30,1
+Chiwenga RHC,Chiwenga RHC,2025,31,1
+Chiwenga RHC,Chiwenga RHC,2025,32,1
+Chiwenga RHC,Chiwenga RHC,2025,33,1
+Chiwenga RHC,Chiwenga RHC,2025,34,1
+Chiwenga RHC,Chiwenga RHC,2025,35,1
+Chiwenga RHC,Chiwenga RHC,2025,36,1
+Chiwenga RHC,Chiwenga RHC,2025,37,1
+Chiwenga RHC,Chiwenga RHC,2025,38,1
+Chiwenga RHC,Chiwenga RHC,2025,39,1
+Chiwenga RHC,Chiwenga RHC,2025,40,1
+Chiwenga RHC,Chiwenga RHC,2025,41,1
+Chiwenga RHC,Chiwenga RHC,2025,42,1
+Chiwenga RHC,Chiwenga RHC,2025,43,1
+Chiwenga RHC,Chiwenga RHC,2025,44,1
+Chiwenga RHC,Chiwenga RHC,2025,45,1
+Chiwenga RHC,Chiwenga RHC,2025,46,1
+Chiwenga RHC,Chiwenga RHC,2025,47,1
+Chiwenga RHC,Chiwenga RHC,2025,48,1
+Chiwenga RHC,Chiwenga RHC,2025,49,1
+Chiwenga RHC,Chiwenga RHC,2025,50,1
+Chiwenga RHC,Chiwenga RHC,2025,51,1
+Chiwenga RHC,Chiwenga RHC,2025,52,1
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,1,4
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,2,4
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,3,4
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,4,4
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,5,4
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,6,3
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,7,3
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,8,3
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,9,3
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,10,3
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,11,3
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,12,3
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,13,3
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,14,3
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,15,2
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,16,2
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,17,2
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,18,2
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,19,2
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,20,2
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,21,2
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,22,2
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,23,2
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,24,2
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,25,2
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,26,2
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,27,2
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,28,2
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,29,2
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,30,2
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,31,2
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,32,1
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,33,1
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,34,1
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,35,1
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,36,1
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,37,1
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,38,1
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,39,1
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,40,1
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,41,1
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,42,1
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,43,1
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,44,1
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,45,1
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,46,1
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,47,1
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,48,1
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,49,1
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,50,1
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,51,1
+DAMBAKURIMA RHC,DAMBAKURIMA RHC,2025,52,1
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,1,1
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,2,1
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,3,1
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,4,1
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,5,1
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,6,1
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,7,1
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,8,1
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,9,1
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,10,1
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,11,1
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,12,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,13,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,14,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,15,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,16,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,17,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,18,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,19,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,20,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,21,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,22,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,23,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,24,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,25,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,26,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,27,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,28,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,29,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,30,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,31,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,32,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,33,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,34,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,35,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,36,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,37,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,38,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,39,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,40,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,41,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,42,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,43,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,44,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,45,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,46,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,47,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,48,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,49,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,50,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,51,0
+DAVID NELSON CLINIC,DAVID NELSON CLINIC,2025,52,0
+Hoya RHC,Hoya RHC,2025,1,0
+Hoya RHC,Hoya RHC,2025,2,0
+Hoya RHC,Hoya RHC,2025,3,0
+Hoya RHC,Hoya RHC,2025,4,0
+Hoya RHC,Hoya RHC,2025,5,0
+Hoya RHC,Hoya RHC,2025,6,0
+Hoya RHC,Hoya RHC,2025,7,0
+Hoya RHC,Hoya RHC,2025,8,0
+Hoya RHC,Hoya RHC,2025,9,0
+Hoya RHC,Hoya RHC,2025,10,0
+Hoya RHC,Hoya RHC,2025,11,0
+Hoya RHC,Hoya RHC,2025,12,0
+Hoya RHC,Hoya RHC,2025,13,0
+Hoya RHC,Hoya RHC,2025,14,0
+Hoya RHC,Hoya RHC,2025,15,0
+Hoya RHC,Hoya RHC,2025,16,0
+Hoya RHC,Hoya RHC,2025,17,0
+Hoya RHC,Hoya RHC,2025,18,0
+Hoya RHC,Hoya RHC,2025,19,0
+Hoya RHC,Hoya RHC,2025,20,0
+Hoya RHC,Hoya RHC,2025,21,0
+Hoya RHC,Hoya RHC,2025,22,0
+Hoya RHC,Hoya RHC,2025,23,0
+Hoya RHC,Hoya RHC,2025,24,0
+Hoya RHC,Hoya RHC,2025,25,0
+Hoya RHC,Hoya RHC,2025,26,0
+Hoya RHC,Hoya RHC,2025,27,0
+Hoya RHC,Hoya RHC,2025,28,0
+Hoya RHC,Hoya RHC,2025,29,0
+Hoya RHC,Hoya RHC,2025,30,0
+Hoya RHC,Hoya RHC,2025,31,0
+Hoya RHC,Hoya RHC,2025,32,0
+Hoya RHC,Hoya RHC,2025,33,0
+Hoya RHC,Hoya RHC,2025,34,0
+Hoya RHC,Hoya RHC,2025,35,0
+Hoya RHC,Hoya RHC,2025,36,0
+Hoya RHC,Hoya RHC,2025,37,0
+Hoya RHC,Hoya RHC,2025,38,0
+Hoya RHC,Hoya RHC,2025,39,0
+Hoya RHC,Hoya RHC,2025,40,0
+Hoya RHC,Hoya RHC,2025,41,0
+Hoya RHC,Hoya RHC,2025,42,0
+Hoya RHC,Hoya RHC,2025,43,0
+Hoya RHC,Hoya RHC,2025,44,0
+Hoya RHC,Hoya RHC,2025,45,0
+Hoya RHC,Hoya RHC,2025,46,0
+Hoya RHC,Hoya RHC,2025,47,0
+Hoya RHC,Hoya RHC,2025,48,0
+Hoya RHC,Hoya RHC,2025,49,0
+Hoya RHC,Hoya RHC,2025,50,0
+Hoya RHC,Hoya RHC,2025,51,0
+Hoya RHC,Hoya RHC,2025,52,0
+Hwata RHC,Hwata RHC,2025,1,1
+Hwata RHC,Hwata RHC,2025,2,1
+Hwata RHC,Hwata RHC,2025,3,1
+Hwata RHC,Hwata RHC,2025,4,1
+Hwata RHC,Hwata RHC,2025,5,1
+Hwata RHC,Hwata RHC,2025,6,1
+Hwata RHC,Hwata RHC,2025,7,1
+Hwata RHC,Hwata RHC,2025,8,1
+Hwata RHC,Hwata RHC,2025,9,1
+Hwata RHC,Hwata RHC,2025,10,1
+Hwata RHC,Hwata RHC,2025,11,1
+Hwata RHC,Hwata RHC,2025,12,1
+Hwata RHC,Hwata RHC,2025,13,1
+Hwata RHC,Hwata RHC,2025,14,1
+Hwata RHC,Hwata RHC,2025,15,1
+Hwata RHC,Hwata RHC,2025,16,0
+Hwata RHC,Hwata RHC,2025,17,0
+Hwata RHC,Hwata RHC,2025,18,0
+Hwata RHC,Hwata RHC,2025,19,0
+Hwata RHC,Hwata RHC,2025,20,0
+Hwata RHC,Hwata RHC,2025,21,0
+Hwata RHC,Hwata RHC,2025,22,0
+Hwata RHC,Hwata RHC,2025,23,0
+Hwata RHC,Hwata RHC,2025,24,0
+Hwata RHC,Hwata RHC,2025,25,0
+Hwata RHC,Hwata RHC,2025,26,0
+Hwata RHC,Hwata RHC,2025,27,0
+Hwata RHC,Hwata RHC,2025,28,0
+Hwata RHC,Hwata RHC,2025,29,0
+Hwata RHC,Hwata RHC,2025,30,0
+Hwata RHC,Hwata RHC,2025,31,0
+Hwata RHC,Hwata RHC,2025,32,0
+Hwata RHC,Hwata RHC,2025,33,0
+Hwata RHC,Hwata RHC,2025,34,0
+Hwata RHC,Hwata RHC,2025,35,0
+Hwata RHC,Hwata RHC,2025,36,0
+Hwata RHC,Hwata RHC,2025,37,0
+Hwata RHC,Hwata RHC,2025,38,0
+Hwata RHC,Hwata RHC,2025,39,0
+Hwata RHC,Hwata RHC,2025,40,0
+Hwata RHC,Hwata RHC,2025,41,0
+Hwata RHC,Hwata RHC,2025,42,0
+Hwata RHC,Hwata RHC,2025,43,0
+Hwata RHC,Hwata RHC,2025,44,0
+Hwata RHC,Hwata RHC,2025,45,0
+Hwata RHC,Hwata RHC,2025,46,0
+Hwata RHC,Hwata RHC,2025,47,0
+Hwata RHC,Hwata RHC,2025,48,0
+Hwata RHC,Hwata RHC,2025,49,0
+Hwata RHC,Hwata RHC,2025,50,0
+Hwata RHC,Hwata RHC,2025,51,0
+Hwata RHC,Hwata RHC,2025,52,0
+Muzarabani RHC,Muzarabani RHC,2025,1,1
+Muzarabani RHC,Muzarabani RHC,2025,2,1
+Muzarabani RHC,Muzarabani RHC,2025,3,1
+Muzarabani RHC,Muzarabani RHC,2025,4,1
+Muzarabani RHC,Muzarabani RHC,2025,5,1
+Muzarabani RHC,Muzarabani RHC,2025,6,1
+Muzarabani RHC,Muzarabani RHC,2025,7,1
+Muzarabani RHC,Muzarabani RHC,2025,8,1
+Muzarabani RHC,Muzarabani RHC,2025,9,0
+Muzarabani RHC,Muzarabani RHC,2025,10,0
+Muzarabani RHC,Muzarabani RHC,2025,11,1
+Muzarabani RHC,Muzarabani RHC,2025,12,0
+Muzarabani RHC,Muzarabani RHC,2025,13,0
+Muzarabani RHC,Muzarabani RHC,2025,14,0
+Muzarabani RHC,Muzarabani RHC,2025,15,0
+Muzarabani RHC,Muzarabani RHC,2025,16,0
+Muzarabani RHC,Muzarabani RHC,2025,17,0
+Muzarabani RHC,Muzarabani RHC,2025,18,0
+Muzarabani RHC,Muzarabani RHC,2025,19,0
+Muzarabani RHC,Muzarabani RHC,2025,20,0
+Muzarabani RHC,Muzarabani RHC,2025,21,0
+Muzarabani RHC,Muzarabani RHC,2025,22,0
+Muzarabani RHC,Muzarabani RHC,2025,23,0
+Muzarabani RHC,Muzarabani RHC,2025,24,0
+Muzarabani RHC,Muzarabani RHC,2025,25,0
+Muzarabani RHC,Muzarabani RHC,2025,26,0
+Muzarabani RHC,Muzarabani RHC,2025,27,0
+Muzarabani RHC,Muzarabani RHC,2025,28,0
+Muzarabani RHC,Muzarabani RHC,2025,29,0
+Muzarabani RHC,Muzarabani RHC,2025,30,0
+Muzarabani RHC,Muzarabani RHC,2025,31,0
+Muzarabani RHC,Muzarabani RHC,2025,32,0
+Muzarabani RHC,Muzarabani RHC,2025,33,0
+Muzarabani RHC,Muzarabani RHC,2025,34,0
+Muzarabani RHC,Muzarabani RHC,2025,35,0
+Muzarabani RHC,Muzarabani RHC,2025,36,0
+Muzarabani RHC,Muzarabani RHC,2025,37,0
+Muzarabani RHC,Muzarabani RHC,2025,38,0
+Muzarabani RHC,Muzarabani RHC,2025,39,0
+Muzarabani RHC,Muzarabani RHC,2025,40,0
+Muzarabani RHC,Muzarabani RHC,2025,41,0
+Muzarabani RHC,Muzarabani RHC,2025,42,0
+Muzarabani RHC,Muzarabani RHC,2025,43,0
+Muzarabani RHC,Muzarabani RHC,2025,44,0
+Muzarabani RHC,Muzarabani RHC,2025,45,0
+Muzarabani RHC,Muzarabani RHC,2025,46,0
+Muzarabani RHC,Muzarabani RHC,2025,47,0
+Muzarabani RHC,Muzarabani RHC,2025,48,0
+Muzarabani RHC,Muzarabani RHC,2025,49,0
+Muzarabani RHC,Muzarabani RHC,2025,50,0
+Muzarabani RHC,Muzarabani RHC,2025,51,0
+Muzarabani RHC,Muzarabani RHC,2025,52,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,1,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,2,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,3,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,4,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,5,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,6,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,7,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,8,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,9,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,10,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,11,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,12,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,13,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,14,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,15,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,16,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,17,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,18,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,19,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,20,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,21,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,22,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,23,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,24,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,25,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,26,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,27,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,28,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,29,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,30,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,31,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,32,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,33,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,34,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,35,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,36,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,37,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,38,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,39,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,40,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,41,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,42,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,43,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,44,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,45,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,46,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,47,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,48,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,49,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,50,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,51,0
+Nyamaridza Clinic,Nyamaridza Clinic,2025,52,0
+Range clinic,Range clinic,2025,1,1
+Range clinic,Range clinic,2025,2,1
+Range clinic,Range clinic,2025,3,1
+Range clinic,Range clinic,2025,4,1
+Range clinic,Range clinic,2025,5,1
+Range clinic,Range clinic,2025,6,1
+Range clinic,Range clinic,2025,7,1
+Range clinic,Range clinic,2025,8,1
+Range clinic,Range clinic,2025,9,0
+Range clinic,Range clinic,2025,10,0
+Range clinic,Range clinic,2025,11,1
+Range clinic,Range clinic,2025,12,0
+Range clinic,Range clinic,2025,13,0
+Range clinic,Range clinic,2025,14,0
+Range clinic,Range clinic,2025,15,0
+Range clinic,Range clinic,2025,16,0
+Range clinic,Range clinic,2025,17,0
+Range clinic,Range clinic,2025,18,0
+Range clinic,Range clinic,2025,19,0
+Range clinic,Range clinic,2025,20,0
+Range clinic,Range clinic,2025,21,0
+Range clinic,Range clinic,2025,22,0
+Range clinic,Range clinic,2025,23,0
+Range clinic,Range clinic,2025,24,0
+Range clinic,Range clinic,2025,25,0
+Range clinic,Range clinic,2025,26,0
+Range clinic,Range clinic,2025,27,0
+Range clinic,Range clinic,2025,28,0
+Range clinic,Range clinic,2025,29,0
+Range clinic,Range clinic,2025,30,0
+Range clinic,Range clinic,2025,31,0
+Range clinic,Range clinic,2025,32,0
+Range clinic,Range clinic,2025,33,0
+Range clinic,Range clinic,2025,34,0
+Range clinic,Range clinic,2025,35,0
+Range clinic,Range clinic,2025,36,0
+Range clinic,Range clinic,2025,37,0
+Range clinic,Range clinic,2025,38,0
+Range clinic,Range clinic,2025,39,0
+Range clinic,Range clinic,2025,40,0
+Range clinic,Range clinic,2025,41,0
+Range clinic,Range clinic,2025,42,0
+Range clinic,Range clinic,2025,43,0
+Range clinic,Range clinic,2025,44,0
+Range clinic,Range clinic,2025,45,0
+Range clinic,Range clinic,2025,46,0
+Range clinic,Range clinic,2025,47,0
+Range clinic,Range clinic,2025,48,0
+Range clinic,Range clinic,2025,49,0
+Range clinic,Range clinic,2025,50,0
+Range clinic,Range clinic,2025,51,0
+Range clinic,Range clinic,2025,52,0
+St. Albert's Hospital,St. Albert's Hospital,2025,1,1
+St. Albert's Hospital,St. Albert's Hospital,2025,2,1
+St. Albert's Hospital,St. Albert's Hospital,2025,3,1
+St. Albert's Hospital,St. Albert's Hospital,2025,4,1
+St. Albert's Hospital,St. Albert's Hospital,2025,5,2
+St. Albert's Hospital,St. Albert's Hospital,2025,6,2
+St. Albert's Hospital,St. Albert's Hospital,2025,7,1
+St. Albert's Hospital,St. Albert's Hospital,2025,8,1
+St. Albert's Hospital,St. Albert's Hospital,2025,9,1
+St. Albert's Hospital,St. Albert's Hospital,2025,10,1
+St. Albert's Hospital,St. Albert's Hospital,2025,11,2
+St. Albert's Hospital,St. Albert's Hospital,2025,12,1
+St. Albert's Hospital,St. Albert's Hospital,2025,13,1
+St. Albert's Hospital,St. Albert's Hospital,2025,14,1
+St. Albert's Hospital,St. Albert's Hospital,2025,15,1
+St. Albert's Hospital,St. Albert's Hospital,2025,16,1
+St. Albert's Hospital,St. Albert's Hospital,2025,17,1
+St. Albert's Hospital,St. Albert's Hospital,2025,18,1
+St. Albert's Hospital,St. Albert's Hospital,2025,19,1
+St. Albert's Hospital,St. Albert's Hospital,2025,20,1
+St. Albert's Hospital,St. Albert's Hospital,2025,21,1
+St. Albert's Hospital,St. Albert's Hospital,2025,22,1
+St. Albert's Hospital,St. Albert's Hospital,2025,23,1
+St. Albert's Hospital,St. Albert's Hospital,2025,24,1
+St. Albert's Hospital,St. Albert's Hospital,2025,25,1
+St. Albert's Hospital,St. Albert's Hospital,2025,26,1
+St. Albert's Hospital,St. Albert's Hospital,2025,27,1
+St. Albert's Hospital,St. Albert's Hospital,2025,28,1
+St. Albert's Hospital,St. Albert's Hospital,2025,29,1
+St. Albert's Hospital,St. Albert's Hospital,2025,30,1
+St. Albert's Hospital,St. Albert's Hospital,2025,31,1
+St. Albert's Hospital,St. Albert's Hospital,2025,32,1
+St. Albert's Hospital,St. Albert's Hospital,2025,33,1
+St. Albert's Hospital,St. Albert's Hospital,2025,34,1
+St. Albert's Hospital,St. Albert's Hospital,2025,35,1
+St. Albert's Hospital,St. Albert's Hospital,2025,36,1
+St. Albert's Hospital,St. Albert's Hospital,2025,37,1
+St. Albert's Hospital,St. Albert's Hospital,2025,38,1
+St. Albert's Hospital,St. Albert's Hospital,2025,39,2
+St. Albert's Hospital,St. Albert's Hospital,2025,40,1
+St. Albert's Hospital,St. Albert's Hospital,2025,41,1
+St. Albert's Hospital,St. Albert's Hospital,2025,42,1
+St. Albert's Hospital,St. Albert's Hospital,2025,43,1
+St. Albert's Hospital,St. Albert's Hospital,2025,44,1
+St. Albert's Hospital,St. Albert's Hospital,2025,45,1
+St. Albert's Hospital,St. Albert's Hospital,2025,46,1
+St. Albert's Hospital,St. Albert's Hospital,2025,47,1
+St. Albert's Hospital,St. Albert's Hospital,2025,48,1
+St. Albert's Hospital,St. Albert's Hospital,2025,49,1
+St. Albert's Hospital,St. Albert's Hospital,2025,50,1
+St. Albert's Hospital,St. Albert's Hospital,2025,51,1
+St. Albert's Hospital,St. Albert's Hospital,2025,52,1
+machaya clinic,machaya clinic,2025,1,0
+machaya clinic,machaya clinic,2025,2,0
+machaya clinic,machaya clinic,2025,3,0
+machaya clinic,machaya clinic,2025,4,0
+machaya clinic,machaya clinic,2025,5,0
+machaya clinic,machaya clinic,2025,6,0
+machaya clinic,machaya clinic,2025,7,0
+machaya clinic,machaya clinic,2025,8,0
+machaya clinic,machaya clinic,2025,9,0
+machaya clinic,machaya clinic,2025,10,0
+machaya clinic,machaya clinic,2025,11,0
+machaya clinic,machaya clinic,2025,12,0
+machaya clinic,machaya clinic,2025,13,0
+machaya clinic,machaya clinic,2025,14,0
+machaya clinic,machaya clinic,2025,15,0
+machaya clinic,machaya clinic,2025,16,0
+machaya clinic,machaya clinic,2025,17,0
+machaya clinic,machaya clinic,2025,18,0
+machaya clinic,machaya clinic,2025,19,0
+machaya clinic,machaya clinic,2025,20,0
+machaya clinic,machaya clinic,2025,21,0
+machaya clinic,machaya clinic,2025,22,0
+machaya clinic,machaya clinic,2025,23,0
+machaya clinic,machaya clinic,2025,24,0
+machaya clinic,machaya clinic,2025,25,0
+machaya clinic,machaya clinic,2025,26,0
+machaya clinic,machaya clinic,2025,27,0
+machaya clinic,machaya clinic,2025,28,0
+machaya clinic,machaya clinic,2025,29,0
+machaya clinic,machaya clinic,2025,30,0
+machaya clinic,machaya clinic,2025,31,0
+machaya clinic,machaya clinic,2025,32,0
+machaya clinic,machaya clinic,2025,33,0
+machaya clinic,machaya clinic,2025,34,0
+machaya clinic,machaya clinic,2025,35,0
+machaya clinic,machaya clinic,2025,36,0
+machaya clinic,machaya clinic,2025,37,0
+machaya clinic,machaya clinic,2025,38,0
+machaya clinic,machaya clinic,2025,39,0
+machaya clinic,machaya clinic,2025,40,0
+machaya clinic,machaya clinic,2025,41,0
+machaya clinic,machaya clinic,2025,42,0
+machaya clinic,machaya clinic,2025,43,0
+machaya clinic,machaya clinic,2025,44,0
+machaya clinic,machaya clinic,2025,45,0
+machaya clinic,machaya clinic,2025,46,0
+machaya clinic,machaya clinic,2025,47,0
+machaya clinic,machaya clinic,2025,48,0
+machaya clinic,machaya clinic,2025,49,0
+machaya clinic,machaya clinic,2025,50,0
+machaya clinic,machaya clinic,2025,51,0
+machaya clinic,machaya clinic,2025,52,0
