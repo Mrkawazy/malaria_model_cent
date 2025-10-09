@@ -1,13 +1,17 @@
-streamlit>=1.36
-plotly>=5.20
-pyogrio>=0.7
-rtree>=1.3     # optional; only if you use sjoin with STRtree; if missing, GeoPandas will still work via shapely’s STRtree
-skops>=0.9
+# Core app
+streamlit==1.36.0
+plotly==5.22.0
+
+# ML stack (match your training env if different)
 numpy==1.26.4
 pandas==2.2.2
 scikit-learn==1.3.2
 joblib==1.3.2
-shapely==2.0.4
-pyproj==3.6.1
-geopandas==0.14.3
+skops==0.9.0
 
+# Geo stack (prebuilt wheels on Python 3.11)
+shapely==2.0.3
+pyproj==3.6.1
+rtree==1.1.0
+pyogrio==0.8.0
+geopandas==0.14.3
