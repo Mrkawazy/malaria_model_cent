@@ -1,0 +1,28 @@
+{
+  "cases": {
+    "winner_model": "XGB_log1p",
+    "winner_params": {
+      "model__regressor__colsample_bytree": 0.6718688106667242,
+      "model__regressor__learning_rate": 0.020940878591136004,
+      "model__regressor__max_depth": 1,
+      "model__regressor__subsample": 0.641649481534626
+    },
+    "metric_primary": "WAPE",
+    "scores": {
+      "WAPE": 0.5066419959399625,
+      "SMAPE": 0.9057195404287608,
+      "MASE": 0.5255290785807754,
+      "RMSE": 18.66291454681839
+    },
+    "target_WAPE": 0.4,
+    "rounds_run": 4,
+    "trials": 141
+  },
+  "deaths": {
+    "winner_classifier": "LogisticRegression",
+    "winner_regressor": "XGBRegressor",
+    "metric": "RMSE",
+    "score": 0.11712822619763615,
+    "trials": 165
+  }
+}
